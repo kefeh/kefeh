@@ -22,4 +22,4 @@
   
 ### Looking forward to chatting with you !!!
 
-![Alt Text](https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif)
+![Alt Text](https://media.giphy.com/media/12775LeUHMZjNu/source.gif)
