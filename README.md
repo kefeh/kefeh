@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://github.com/kefeh/kefeh/blob/master/assets/banner.jpg
 
 **Kefeh** is an experienced Software developer with a history of working in the Computer Software industry. Skilled in `Python`, `Design`, `RESTful WebServices`, `React.js`,  `Database management`, `Scripting` and `Linux`. He is a strong business development professional with a Bachelor's focused in Computer Science from the University of Buea. He loves sharing knowledge, and is currently mentoring students in Udacity, doing project reviews, answering their questions and guiding them through their Nanodegrees. He loves working in his tech community and has been involved in hackathons, giving tech talks and coaching the young techies.
 
