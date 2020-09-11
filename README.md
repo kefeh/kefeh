@@ -15,12 +15,14 @@
 - 💬 Ask him about ... anything, even if he does not know, he'll still definitely have something to say.
 - ⚡ Fun fact: ... It is impossible for people to lick their elbows. 😄😄😄😄
 
+## His Contribution Stats:
+ [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kefeh)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## 📫 You will find him: 
   - microblogging on ![twitter](https://twitter.com/KefehCollins).
   - Networking on ![LinkedIn](https://www.linkedin.com/in/kefeh-collins/).
   - sharing his photography passion on ![instagram](https://www.instagram.com/kefscloseuplife).
   
- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kefeh)](https://github.com/LordDashMe/github-contribution-stats/)
   
 ### Looking forward to chatting with you !!!
 
