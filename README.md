@@ -20,6 +20,8 @@
   - Networking on ![LinkedIn](https://www.linkedin.com/in/kefeh-collins/).
   - sharing his photography passion on ![instagram](https://www.instagram.com/kefscloseuplife).
   
+ [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kefeh)](https://github.com/LordDashMe/github-contribution-stats/)
+  
 ### Looking forward to chatting with you !!!
 
 ![Alt Text](https://media.giphy.com/media/12775LeUHMZjNu/source.gif)
